@@ -19,7 +19,7 @@ This code is derived from original 'Window Applets' from Andrej Belcijan.
 See http://gnome-look.org/content/show.php?content=103732 for infos.
 
 Generate
-Run ./autogen.sh --prefix=usr (you need to have xfce4-dev-tools installed)
+Run ./autogen.sh --prefix=/usr (you need to have xfce4-dev-tools installed)
 
 Installation
 ------------
